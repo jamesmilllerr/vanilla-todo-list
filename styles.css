@@ -1,0 +1,15 @@
+
+.removeButton {
+  border-radius: 12px;
+  background-color: rgb(218, 82, 82);
+  font-weight: 600;
+  color: white;
+}
+
+.removeSpan {
+  padding-left: 10px;
+}
+
+.body {
+  background-color: rgb(146, 130, 130)
+}
